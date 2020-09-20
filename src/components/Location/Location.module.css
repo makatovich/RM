@@ -1,0 +1,14 @@
+.Location {
+  padding: 0.5rem;
+
+}
+.Location li {
+  margin-right: -5rem;
+}
+.locationName {
+  font-size: x-large;
+}
+.locationName a {
+  padding-right: 3rem;
+  cursor: initial;
+}

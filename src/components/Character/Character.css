@@ -1,0 +1,40 @@
+.Character {
+  display: flex;
+  border-radius: 1rem;
+  margin-bottom: 0.6rem;
+  justify-content: space-between;
+
+}
+.imgBlock {
+  width: 37%;
+}
+.imgBlock img {
+  max-width: 100%;
+  border-bottom-left-radius: 1rem;
+  border-top-left-radius: 1rem;
+  height: 100%;
+}
+.textBlock {
+  width: 55%;
+  color: cornsilk;
+}
+.textBlock .name a {
+  font-size: 1.3rem;
+}
+.statusCircle {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+}
+.left {
+  position: relative;
+  right: -20%;
+}
+.right {
+  position: absolute;
+  right: 9%;
+}
+.right .rem {
+  margin-right: 15rem;
+}

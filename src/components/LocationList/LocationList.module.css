@@ -1,0 +1,9 @@
+.LocationsList {
+  color: yellowgreen;
+justify-content: right;
+}
+.LocationsList h1 {
+  color: yellowgreen;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

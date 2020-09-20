@@ -1,0 +1,10 @@
+.App {
+  background-color: rgb(23 24 24);
+}
+.App a {
+  color: #a3a3a3;
+  text-decoration: none;
+}
+.App a:hover {
+  color: burlywood;
+}
